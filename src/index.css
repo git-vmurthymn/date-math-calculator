@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+<<<<<<< HEAD
+=======
+
+body {
+  @apply font-sans bg-gray-100 text-gray-800;
+  margin: 0;
+  padding: 0;
+}
+>>>>>>> 51cf152f9c25d9fd63fa549685a3286252f7f8d4
